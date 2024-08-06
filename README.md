@@ -16,6 +16,7 @@ The Car Rental System is a comprehensive solution designed using Java and Spring
 - Object-oriented programming (OOP)
 
 ## Project Structure
+```
 org.example
 ├── auth
 │   ├── JwtAuthFilter
@@ -68,11 +69,12 @@ org.example
 │   ├── RefreshTokenService
 │   ├── RentalService
 │   └── UserDetailsServicelmpl
-│
-└── resources
-└── application.properties
+│── App
+└─ resources
+└─ application.properties
 build.gradle
-Copy
+
+```
 ## Getting Started
 
 ### Prerequisites
